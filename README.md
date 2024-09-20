@@ -1,70 +1,29 @@
-# Getting Started with Create React App
+# Drone Simulator
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Welcome to the **Drone Simulator**! This application allows users to simulate drone movement on a Mapbox map based on user-provided latitude and longitude coordinates.
 
-## Available Scripts
 
-In the project directory, you can run:
+![Home Page](public/Home.png)
+![Current Location](<public/Current Location.png>)
+![Simulation](public/Simulation.png)
 
-### `npm start`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## Key Features
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+- **Interactive World Map**: A dynamic world map is displayed using Mapbox as the app's background, leveraging a variety of npm packages to enhance performance.
+  
+- **Precise Coordinate Input**: The app accepts a single set of latitude and longitude at a time, ensuring accurate simulation of drone motion.
 
-### `npm test`
+- **Drone Motion Simulation**: Upon clicking the **Simulate** button, a drone marker is rendered on the map, moving seamlessly along the user-defined path.
+  
+- **Modern Stack**: The app is built using **React** for the user interface and **Tailwind CSS** for modern, responsive styling.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## Self-Evaluation
 
-### `npm run build`
+I have made every effort to deliver this project in line with the specified requirements. During the development process, I acquired a wide range of new skills and learned about several new technologies, many of which were initially unfamiliar to me. I made sure to thoroughly understand each aspect before implementing it.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+While I acknowledge there are areas that could be further refined, I am confident that with the right guidance, I can achieve much more beyond the scope of this project.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+---
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Thank you for exploring the **Drone Simulator**! I greatly value any feedback and look forward to learning and improving further.
